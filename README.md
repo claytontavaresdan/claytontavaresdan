@@ -40,14 +40,14 @@ Propostas para tratar **streams interrompidos** e **modelos órfãos** após exc
 </tr>
 </table>
 
-## Base acadêmica, aplicação diária
+## Especializações lato sensu
 
-![Bacharel em Sistemas de Informação. Especializações em IA, Banco de Dados, Big Data e Cloud Computing e Cybersecurity.](assets/formacao.svg)
+![Especializações lato sensu em Inteligência Artificial, Banco de Dados, Big Data e Cloud Computing e Cybersecurity.](assets/formacao.svg)
 
 <details>
 <summary>Títulos das especializações</summary>
 
-Pós-graduações lato sensu pela **FACUMINAS**, concluídas em **2025**:
+Especializações lato sensu:
 
 - Inteligência Artificial.
 - Banco de Dados.
