@@ -40,22 +40,6 @@ Propostas para tratar **streams interrompidos** e **modelos órfãos** após exc
 </tr>
 </table>
 
-## Especializações lato sensu
-
-![Especializações lato sensu em Inteligência Artificial, Banco de Dados, Big Data e Cloud Computing e Cybersecurity.](assets/formacao.svg)
-
-<details>
-<summary>Títulos das especializações</summary>
-
-Especializações lato sensu:
-
-- Inteligência Artificial.
-- Banco de Dados.
-- Big Data e Cloud Computing.
-- Cybersecurity: Detecção de Ameaças e Proteção de Sistemas de Informática e Comunicações.
-
-</details>
-
 ## A lógica por trás da bancada
 
 ```text
